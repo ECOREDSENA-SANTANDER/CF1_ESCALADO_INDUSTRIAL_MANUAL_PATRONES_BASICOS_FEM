@@ -1,15 +1,21 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 2.9s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 10%
+    right: 6%
+    width: 95px
   &-2
+    animation: float1 2.2s ease-in-out infinite alternate
+    position: absolute
+    top: 78%
+    right: 74%
+    width: 90px
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 3%
+    right: 94%
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -17,14 +23,90 @@
     transform: translateY(0px)
   
 
-.banner-principal .tarjeta
-  background-position: left 50% !important
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  max-width: 500px !important  
+  position: static
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important   
 .banner-interno__titulo__icono i
   color: $color-primario
-figcaption
-  font-weight: normal
- 
+figcaption, table caption
+  font-weight: normal 
+.barra-avance__boton--regresar span
+  color: white !important
+
+
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/mini-portada.png') !important
+.fa-lista
+  li
+    display: flex !important
+  li:before
+    position: relative
+    margin-right: 7px
+    font-size: 1.4rem 
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario       
+.lista-ol--cuadro.color-primario .lista-ol--cuadro__vineta
+  background-color: $color-primario
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+.bg-color-primario
+  background-color: $color-primario
+.bg-color-secundario
+  background-color: $color-secundario
+.bg-color-sistema-texto
+  background-color: #12263F
+.bg-color-adicional-1
+  background-color: $color-adicional-1
+.ct-color-primario
+  color: $color-primario
+.w-fit
+  width: fit-content
+.columns-2
+  columns: 2
+.tc-sec 
+  color: $color-secundario !important
+.tc-ac 
+  color: $color-acento-contenido !important
+.font-italic
+  font-style: italic !important
+.sin-borde
+  border: 0px !important
+
+
+.bg-1
+  background-color: #A1D8C6
+.bg-2
+  background-color: #FDEFED
+.bg-3
+  background-color:  #FFE2E3
+.bgcta-1
+  background-color: #E8624E
+  border-radius: 25px
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+
+.subt
+  position: relative
+  background-color: #169F70
+  width: fit-content
+  border-top-right-radius: 10px
+  border-bottom-right-radius: 10px
+  &--img
+    width: 50px
+    margin-top: -10%
+    padding: 0px 7px
+  &--text
+    background-color: #E7F5F0
+    padding: 8px 15px
+    border: 1px solid #E7F5F0
+    border-top-right-radius: 10px
+    border-bottom-right-radius: 10px
