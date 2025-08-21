@@ -21,7 +21,7 @@
             .col-lg-2.col-md-2.d-none.d-md-block
               img.px-lg-3(src='@/assets/curso/temas/t2/2.svg', alt='')              
             .col-lg-10.col-md-10
-              p.mb-0 Además, es importante establecer un sistema claro de medidas, el cual puede ser individual (a medida) o estandarizado (por tallas). En ambos casos, el orden y la correcta interpretación de las medidas son fundamentales para garantizar la coherencia en la construcción de las piezas del patrón, asegurando que estas respondan a las proporciones reales del cuerpo y a las características funcionales y estéticas de la prenda.
+              p.mb-0 Además, es importante #[strong establecer un sistema claro de medidas], el cual puede ser individual (a medida) o estandarizado (por tallas). En ambos casos, el orden y la correcta interpretación de las medidas son fundamentales para garantizar la coherencia en la construcción de las piezas del patrón, asegurando que estas respondan a las proporciones reales del cuerpo y a las características funcionales y estéticas de la prenda.
         p Por tanto, una adecuada clasificación de las medidas, sustentada en parámetros normativos y acompañada de un análisis riguroso, permite optimizar el ajuste anatómico y la comodidad de las prendas. Asimismo, contribuye a mejorar la precisión y eficiencia en los procesos de diseño, trazado y confección, tanto en contextos de producción a pequeña escala como en entornos industriales del sector moda.
       .col-lg-4.col-md-8.col-9(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/3.jpg', alt='')

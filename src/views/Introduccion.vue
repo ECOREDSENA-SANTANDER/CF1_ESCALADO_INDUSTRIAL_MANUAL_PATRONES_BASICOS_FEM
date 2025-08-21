@@ -14,7 +14,7 @@
       .col-lg-3.col-md-8.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/intro/1.png', alt='')
       .col-lg-9(data-aos="fade-left")
-        .bg-color-adicional-1.p-4
+        .bg-color-adicional-1.h-100.p-4
           .row.justify-content-center
             .col-lg-2.col-md-2.d-none.d-md-block
               img.px-lg-3(src='@/assets/curso/temas/intro/2.svg', alt='')              
