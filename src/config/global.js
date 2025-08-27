@@ -298,12 +298,12 @@ export default {
       autores: [
         {
           nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
