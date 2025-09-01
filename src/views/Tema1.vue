@@ -32,9 +32,9 @@
                         h4.mb-1.text-white Estructura del cuerpo
                         p.mb-0 Se invita a explorar el video, donde se abordan nociones básicas de la estructura corporal:
                       .col-sm-auto
-                        a.boton.text-white(:href="obtenerLink('/downloads/Medidas_anatomicas.pdf')" target="_blank")
+                        a.boton.text-white(:href="('https://youtu.be/9UZwjgAYxMY')" target="_blank")
                           span Ir al sitio
-                          i.fas.fa-play
+                          i.fas.fa-circle-play
 
     .py-3
 
@@ -56,7 +56,7 @@
             h5 Figura 1.
             span Antropometría femenina 
           .row.justify-content-center
-            .col-lg-6.col-md-5.col-9
+            .col-lg-7.col-md-6.col-10
               figure
                 img(src='@/assets/curso/temas/t1/fig1.png', alt='Esquema anatómico de una mujer con medidas antropométricas, destacando proporciones corporales clave. Estos datos son esenciales para el diseño ergonómico, el patronaje y estudios biomecánicos.')
 
@@ -73,7 +73,7 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/t1/3.jpg')})`}")
       .bloque-texto-g__texto.tarjeta.p-4.py-5
         p.mb-0 La anatomía es vista como una rama de la biología que estudia la estructura de todos los seres vivos, focalizada principalmente en la forma, ubicación y la relación que tienen los órganos y los sistemas (Cabrera, 2016). #[br] #[br]
-        p.mb-0 Esta rama tiene relación en la elaboración de prendas dada que está enfocada para lograr una adaptación y funcionalidad al cuerpo humano.
+        p.mb-0 Esta rama se relaciona con la elaboración de prendas, ya que está orientada a lograr una adecuada adaptación y funcionalidad al cuerpo humano.
 
     .row.bgc-1.align-items-center.p-4.mb-5(data-aos="fade")
       .col-lg-12.col-12.px-lg-4
@@ -83,7 +83,7 @@
             .col-12
               .titulo-sexto.color-acento-contenido
                 h5 Figura 2.
-                span Antropometría femenina
+                span Anatomía del cuerpo
             .col-lg-4.col-md-5.col-9
               figure
                 img(src='@/assets/curso/temas/t1/fig2.png', alt='Cuerpo femenino con los músculos expuestos en vista frontal y posterior. Se distinguen los principales grupos musculares del torso, brazos y piernas, evidenciando su estructura y distribución en el cuerpo.')

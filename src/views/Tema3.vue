@@ -19,7 +19,7 @@
         span Tipologías de prendas femeninas   
       .tabla-a.tem3.color-acento-contenido
         table
-          caption Fuente: SENA, s. f.
+          caption Fuente: SENA, (2025)
           thead
             tr.bg-6
               th Tipología
@@ -68,7 +68,7 @@
                   h5 Figura 4.
                   span Tipologías de vestido
                 figure
-                  img(src='@/assets/curso/temas/t3/fig4.png', alt='Se presentan diferentes diseños de vestido clasificados según su tipología, considerando aspectos como el corte, la silueta, el largo, la estructura del escote y la presencia o ausencia de mangas. Esta clasificación permite identificar las variaciones en el diseño y funcionalidad de las prendas, lo cual es clave para el desarrollo de colecciones, el patronaje y la adecuación al tipo de cuerpo o contexto de uso.')
+                  img(src='@/assets/curso/temas/t3/fig4.svg', alt='Se presentan diferentes diseños de vestido clasificados según su tipología, considerando aspectos como el corte, la silueta, el largo, la estructura del escote y la presencia o ausencia de mangas. Esta clasificación permite identificar las variaciones en el diseño y funcionalidad de las prendas, lo cual es clave para el desarrollo de colecciones, el patronaje y la adecuación al tipo de cuerpo o contexto de uso.')
             .row.justify-content-center
               .col-md-10.col-lg-9
                 h4 Faldas
@@ -78,7 +78,7 @@
                 figure
                   img(src='@/assets/curso/temas/t3/fig5.svg', alt='Conjunto de catorce ilustraciones de faldas organizadas en tres filas. Cada imagen representa una tipología diferente, identificada con un nombre en la parte inferior. Las variaciones incluyen estructuras como línea A, godet, plisada, lápiz, asimétrica, cruzada, circular, con volantes o tipo sirena. Las formas abarcan desde diseños ajustados hasta voluminosos, con longitudes y caídas diversas.')
             .row.justify-content-center
-              .col-md-10.col-lg-9
+              .col-md-10.col-lg-11
                 h4 Blusas y #[em tops]
                 .titulo-sexto.color-acento-contenido.mb-2
                   h5 Figura 6.
@@ -86,7 +86,7 @@
                 figure
                   img(src='@/assets/curso/temas/t3/fig6.svg', alt='Conjunto de dieciocho escotes femeninos representados mediante siluetas. Se incluyen formas cerradas, redondeadas, en punta, con aberturas pequeñas, líneas rectas, curvas suaves y estructuras asimétricas. Algunos cubren por completo el cuello, otros dejan los hombros libres o incorporan tiras delgadas. También hay diseños con cortes en diagonal, cruces frontales, curvas profundas o elementos que se ajustan desde el cuello, mostrando una variedad de estilos que modelan el área superior del torso.')
             .row.justify-content-center
-              .col-md-10.col-lg-9
+              .col-md-10.col-lg-11
                 h4 Pantalones
                 .titulo-sexto.color-acento-contenido.mb-2
                   h5 Figura 7.
@@ -100,7 +100,7 @@
                   h5 Figura 8.
                   span Tipologías de chaquetas
                 figure
-                  img(src='@/assets/curso/temas/t3/fig8.png', alt='Nueve ilustraciones de chaquetas con distintas estructuras. Algunas tienen solapas anchas, otros cierres visibles, cortes rectos o ajustados. Variaciones en cuello, bolsillos y longitud definen cada diseño.')
+                  img(src='@/assets/curso/temas/t3/fig8.svg', alt='Nueve ilustraciones de chaquetas con distintas estructuras. Algunas tienen solapas anchas, otros cierres visibles, cortes rectos o ajustados. Variaciones en cuello, bolsillos y longitud definen cada diseño.')
             .row.justify-content-center
               .col-md-10.col-lg-9
                 h4 Chaquetas y abrigos
@@ -108,7 +108,7 @@
                   h5 Figura 9.
                   span Tipologías de abrigos
                 figure
-                  img(src='@/assets/curso/temas/t3/fig9.png', alt='Nueve ilustraciones de abrigos largos con variaciones en cuello, número de botones, bolsillos y proporción. Algunos tienen doble fila de cierre, otros capucha o solapas amplias. Las siluetas van desde entalladas hasta rectas.')
+                  img(src='@/assets/curso/temas/t3/fig9.svg', alt='Nueve ilustraciones de abrigos largos con variaciones en cuello, número de botones, bolsillos y proporción. Algunos tienen doble fila de cierre, otros capucha o solapas amplias. Las siluetas van desde entalladas hasta rectas.')
             .row.justify-content-center
               .col-md-10.col-lg-9
                 h4 Monos y enterizos
@@ -116,7 +116,7 @@
                   h5 Figura 10.
                   span Tipologías de enterizos
                 figure
-                  img(src='@/assets/curso/temas/t3/fig10.png', alt='Veinticuatro ilustraciones de enterizos femeninos distribuidos en tres filas. Incluyen versiones largas y cortas, con diferentes tipos de mangas, tirantes, escotes y cortes. Las siluetas varían entre ajustadas, rectas y amplias.')
+                  img(src='@/assets/curso/temas/t3/fig10.svg', alt='Veinticuatro ilustraciones de enterizos femeninos distribuidos en tres filas. Incluyen versiones largas y cortas, con diferentes tipos de mangas, tirantes, escotes y cortes. Las siluetas varían entre ajustadas, rectas y amplias.')
             .row.justify-content-center
               .col-md-10.col-lg-9
                 h4 Fajas y corsetería
@@ -124,7 +124,7 @@
                   h5 Figura 11.
                   span Tipos de #[em corsets]
                 figure
-                  img(src='@/assets/curso/temas/t3/fig11.png', alt='Ocho ilustraciones técnicas de prendas superiores ajustadas tipo corsé, organizadas en dos filas. Cada una presenta variaciones en longitud, presencia o ausencia de tirantes, cortes verticales, estructura de copas y terminaciones inferiores.')
+                  img(src='@/assets/curso/temas/t3/fig11.svg', alt='Ocho ilustraciones técnicas de prendas superiores ajustadas tipo corsé, organizadas en dos filas. Cada una presenta variaciones en longitud, presencia o ausencia de tirantes, cortes verticales, estructura de copas y terminaciones inferiores.')
       .col-lg-6.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/2.png', alt='')
 
@@ -175,7 +175,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.1  Tipología de patrones básicos femeninos
 
-    p En el campo del diseño de moda y la confección, los patrones básicos femeninos constituyen la estructura base sobre la cual se construyen las distintas prendas de vestir. Los patrones permiten traducir las proporciones anatómicas en formas planas que, al ensamblarse, se ajustan adecuadamente al cuerpo femenino. 
+    p En el campo del diseño de moda y la confección, los #[b patrones básicos femeninos] constituyen la estructura base sobre la cual se construyen las distintas prendas de vestir. Los patrones permiten traducir las proporciones anatómicas en formas planas que, al ensamblarse, se ajustan adecuadamente al cuerpo femenino. 
     p La clasificación de estos patrones se realiza según la zona del cuerpo que cubren y su función estructural dentro del diseño de la prenda, por ejemplo:
 
     .py-3
@@ -332,7 +332,7 @@
             .col-12
               .titulo-sexto.color-acento-contenido
                 h5 Figura 20.
-                span 
+                span Patrón básico de cuello
             .col-lg-6.col-md-9.col-12
               figure.mb-3
                 img(src='@/assets/curso/temas/t3/fig20.svg', alt='Esquema técnico del desarrollo de una copa de manga tipo sastre. Incluye dos piezas curvas con indicaciones métricas para elevación, largo y separación entre líneas. Se señalan puntos de rotación, marcas de montaje y referencias geométricas para guiar el armado de la estructura.')

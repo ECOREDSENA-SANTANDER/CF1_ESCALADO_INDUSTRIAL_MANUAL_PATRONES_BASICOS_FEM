@@ -74,7 +74,7 @@
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t2/5.jpg')})`}")
       .bloque-texto-g__texto.tarjeta.p-4
-        p.mb-0 A nivel internacional y nacional se plantean diversas normas para la toma de medidas corporales, entre las que se encuentran: #[br] #[br]
+        p.mb-0 A nivel internacional y nacional, se plantean diversas normas para la toma de medidas corporales, entre las que se encuentran: #[br] #[br]
         p Norma Técnica Colombiana NTC-ISO 8559:1995. Fabricación de vestuario y estudios antropométricos. Dimensiones corporales. #[br] #[br]
         p.mb-0 Norma UNE-EN 13402-3. Etiquetado de tallas de prendas de vestir, enfocadas al beneficio del consumidor. 
 
